@@ -1,2 +1,15 @@
-Welcome to group 5.
-My name is nhut(leader)
+Nội dung của MẠnh
+# Công nghệ
+Tin tức và đánh giá về sản phẩm công nghệ mới nhất
+
+# Du lịch
+Kinh nghiệm và địa điểm du lịch hấp dẫn
+
+# Ẩm thực
+Mì quảng không ngon 
+
+# Giáo dục
+toi đnag học ở PNV 
+
+# Giải trí
+tôi ghét Tiến Nhựt
